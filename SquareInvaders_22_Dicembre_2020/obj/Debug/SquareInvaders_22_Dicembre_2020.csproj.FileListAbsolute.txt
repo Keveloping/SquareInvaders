@@ -1,0 +1,63 @@
+D:\Desktop\SquareInvaders_22_Dicembre_2020\SquareInvaders_22_Dicembre_2020\obj\Debug\SquareInvaders_22_Dicembre_2020.csprojAssemblyReference.cache
+D:\Desktop\SquareInvaders_22_Dicembre_2020\SquareInvaders_22_Dicembre_2020\obj\Debug\SquareInvaders_22_Dicembre_2020.csproj.CoreCompileInputs.cache
+D:\Desktop\SquareInvaders_22_Dicembre_2020\SquareInvaders_22_Dicembre_2020\bin\Debug\SquareInvaders_22_Dicembre_2020.exe.config
+D:\Desktop\SquareInvaders_22_Dicembre_2020\SquareInvaders_22_Dicembre_2020\bin\Debug\SquareInvaders_22_Dicembre_2020.exe
+D:\Desktop\SquareInvaders_22_Dicembre_2020\SquareInvaders_22_Dicembre_2020\bin\Debug\SquareInvaders_22_Dicembre_2020.pdb
+D:\Desktop\SquareInvaders_22_Dicembre_2020\SquareInvaders_22_Dicembre_2020\bin\Debug\AivDraw.dll
+D:\Desktop\SquareInvaders_22_Dicembre_2020\SquareInvaders_22_Dicembre_2020\obj\Debug\SquareInvaders_22_Dicembre_2020.csproj.CopyComplete
+D:\Desktop\SquareInvaders_22_Dicembre_2020\SquareInvaders_22_Dicembre_2020\obj\Debug\SquareInvaders_22_Dicembre_2020.exe
+D:\Desktop\SquareInvaders_22_Dicembre_2020\SquareInvaders_22_Dicembre_2020\obj\Debug\SquareInvaders_22_Dicembre_2020.pdb
+D:\Desktop\SquareInvaders_22_Dicembre_2020\SquareInvaders_22_Dicembre_2020\bin\Debug\Assets\alienBullet_0.png
+D:\Desktop\SquareInvaders_22_Dicembre_2020\SquareInvaders_22_Dicembre_2020\bin\Debug\Assets\alienBullet_1.png
+D:\Desktop\SquareInvaders_6_Gennaio_2021\SquareInvaders_22_Dicembre_2020\bin\Debug\Assets\alienBullet_0.png
+D:\Desktop\SquareInvaders_6_Gennaio_2021\SquareInvaders_22_Dicembre_2020\bin\Debug\Assets\alienBullet_1.png
+D:\Desktop\SquareInvaders_6_Gennaio_2021\SquareInvaders_22_Dicembre_2020\bin\Debug\SquareInvaders_22_Dicembre_2020.exe.config
+D:\Desktop\SquareInvaders_6_Gennaio_2021\SquareInvaders_22_Dicembre_2020\bin\Debug\SquareInvaders_22_Dicembre_2020.exe
+D:\Desktop\SquareInvaders_6_Gennaio_2021\SquareInvaders_22_Dicembre_2020\bin\Debug\SquareInvaders_22_Dicembre_2020.pdb
+D:\Desktop\SquareInvaders_6_Gennaio_2021\SquareInvaders_22_Dicembre_2020\bin\Debug\AivDraw.dll
+D:\Desktop\SquareInvaders_6_Gennaio_2021\SquareInvaders_22_Dicembre_2020\obj\Debug\SquareInvaders_22_Dicembre_2020.csprojAssemblyReference.cache
+D:\Desktop\SquareInvaders_6_Gennaio_2021\SquareInvaders_22_Dicembre_2020\obj\Debug\SquareInvaders_22_Dicembre_2020.csproj.CoreCompileInputs.cache
+D:\Desktop\SquareInvaders_6_Gennaio_2021\SquareInvaders_22_Dicembre_2020\obj\Debug\SquareInvaders_22_Dicembre_2020.csproj.CopyComplete
+D:\Desktop\SquareInvaders_6_Gennaio_2021\SquareInvaders_22_Dicembre_2020\obj\Debug\SquareInvaders_22_Dicembre_2020.exe
+D:\Desktop\SquareInvaders_6_Gennaio_2021\SquareInvaders_22_Dicembre_2020\obj\Debug\SquareInvaders_22_Dicembre_2020.pdb
+D:\Desktop\SquareInvaders_7_Gennaio_2021\SquareInvaders_22_Dicembre_2020\obj\Debug\SquareInvaders_22_Dicembre_2020.csprojAssemblyReference.cache
+D:\Desktop\SquareInvaders_7_Gennaio_2021\SquareInvaders_22_Dicembre_2020\obj\Debug\SquareInvaders_22_Dicembre_2020.csproj.CoreCompileInputs.cache
+D:\Desktop\SquareInvaders_7_Gennaio_2021\SquareInvaders_22_Dicembre_2020\obj\Debug\SquareInvaders_22_Dicembre_2020.exe
+D:\Desktop\SquareInvaders_7_Gennaio_2021\SquareInvaders_22_Dicembre_2020\obj\Debug\SquareInvaders_22_Dicembre_2020.pdb
+D:\Desktop\SquareInvaders_7_Gennaio_2021\SquareInvaders_22_Dicembre_2020\bin\Debug\Assets\alienBullet_0.png
+D:\Desktop\SquareInvaders_7_Gennaio_2021\SquareInvaders_22_Dicembre_2020\bin\Debug\Assets\alienBullet_1.png
+D:\Desktop\SquareInvaders_7_Gennaio_2021\SquareInvaders_22_Dicembre_2020\bin\Debug\SquareInvaders_22_Dicembre_2020.exe.config
+D:\Desktop\SquareInvaders_7_Gennaio_2021\SquareInvaders_22_Dicembre_2020\bin\Debug\SquareInvaders_22_Dicembre_2020.exe
+D:\Desktop\SquareInvaders_7_Gennaio_2021\SquareInvaders_22_Dicembre_2020\bin\Debug\SquareInvaders_22_Dicembre_2020.pdb
+D:\Desktop\SquareInvaders_7_Gennaio_2021\SquareInvaders_22_Dicembre_2020\bin\Debug\AivDraw.dll
+D:\Desktop\SquareInvaders_7_Gennaio_2021\SquareInvaders_22_Dicembre_2020\obj\Debug\SquareInvaders_22_Dicembre_2020.csproj.CopyComplete
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\25.Lezione 07 Gennaio 2021\SquareInvaders_7_Gennaio_2021\SquareInvaders_22_Dicembre_2020\bin\Debug\Assets\alienBullet_0.png
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\25.Lezione 07 Gennaio 2021\SquareInvaders_7_Gennaio_2021\SquareInvaders_22_Dicembre_2020\bin\Debug\Assets\alienBullet_1.png
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\25.Lezione 07 Gennaio 2021\SquareInvaders_7_Gennaio_2021\SquareInvaders_22_Dicembre_2020\bin\Debug\Assets\barrier.png
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\25.Lezione 07 Gennaio 2021\SquareInvaders_7_Gennaio_2021\SquareInvaders_22_Dicembre_2020\bin\Debug\Assets\heart.png
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\25.Lezione 07 Gennaio 2021\SquareInvaders_7_Gennaio_2021\SquareInvaders_22_Dicembre_2020\bin\Debug\Assets\numbers_0.png
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\25.Lezione 07 Gennaio 2021\SquareInvaders_7_Gennaio_2021\SquareInvaders_22_Dicembre_2020\bin\Debug\Assets\numbers_1.png
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\25.Lezione 07 Gennaio 2021\SquareInvaders_7_Gennaio_2021\SquareInvaders_22_Dicembre_2020\bin\Debug\Assets\numbers_2.png
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\25.Lezione 07 Gennaio 2021\SquareInvaders_7_Gennaio_2021\SquareInvaders_22_Dicembre_2020\bin\Debug\Assets\numbers_3.png
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\25.Lezione 07 Gennaio 2021\SquareInvaders_7_Gennaio_2021\SquareInvaders_22_Dicembre_2020\bin\Debug\Assets\numbers_4.png
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\25.Lezione 07 Gennaio 2021\SquareInvaders_7_Gennaio_2021\SquareInvaders_22_Dicembre_2020\bin\Debug\Assets\numbers_5.png
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\25.Lezione 07 Gennaio 2021\SquareInvaders_7_Gennaio_2021\SquareInvaders_22_Dicembre_2020\bin\Debug\Assets\numbers_6.png
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\25.Lezione 07 Gennaio 2021\SquareInvaders_7_Gennaio_2021\SquareInvaders_22_Dicembre_2020\bin\Debug\Assets\numbers_7.png
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\25.Lezione 07 Gennaio 2021\SquareInvaders_7_Gennaio_2021\SquareInvaders_22_Dicembre_2020\bin\Debug\Assets\numbers_8.png
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\25.Lezione 07 Gennaio 2021\SquareInvaders_7_Gennaio_2021\SquareInvaders_22_Dicembre_2020\bin\Debug\Assets\numbers_9.png
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\25.Lezione 07 Gennaio 2021\SquareInvaders_7_Gennaio_2021\SquareInvaders_22_Dicembre_2020\bin\Debug\Assets\player.png
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\25.Lezione 07 Gennaio 2021\SquareInvaders_7_Gennaio_2021\SquareInvaders_22_Dicembre_2020\bin\Debug\Assets\ship_0.png
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\25.Lezione 07 Gennaio 2021\SquareInvaders_7_Gennaio_2021\SquareInvaders_22_Dicembre_2020\bin\Debug\Assets\ship_1.png
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\25.Lezione 07 Gennaio 2021\SquareInvaders_7_Gennaio_2021\SquareInvaders_22_Dicembre_2020\bin\Debug\Assets\ship_2.png
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\25.Lezione 07 Gennaio 2021\SquareInvaders_7_Gennaio_2021\SquareInvaders_22_Dicembre_2020\bin\Debug\Assets\ship_3.png
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\25.Lezione 07 Gennaio 2021\SquareInvaders_7_Gennaio_2021\SquareInvaders_22_Dicembre_2020\bin\Debug\Assets\ship_4.png
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\25.Lezione 07 Gennaio 2021\SquareInvaders_7_Gennaio_2021\SquareInvaders_22_Dicembre_2020\bin\Debug\Assets\space-wallpaper.png
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\25.Lezione 07 Gennaio 2021\SquareInvaders_7_Gennaio_2021\SquareInvaders_22_Dicembre_2020\bin\Debug\SquareInvaders_22_Dicembre_2020.exe.config
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\25.Lezione 07 Gennaio 2021\SquareInvaders_7_Gennaio_2021\SquareInvaders_22_Dicembre_2020\bin\Debug\SquareInvaders_22_Dicembre_2020.exe
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\25.Lezione 07 Gennaio 2021\SquareInvaders_7_Gennaio_2021\SquareInvaders_22_Dicembre_2020\bin\Debug\SquareInvaders_22_Dicembre_2020.pdb
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\25.Lezione 07 Gennaio 2021\SquareInvaders_7_Gennaio_2021\SquareInvaders_22_Dicembre_2020\bin\Debug\AivDraw.dll
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\25.Lezione 07 Gennaio 2021\SquareInvaders_7_Gennaio_2021\SquareInvaders_22_Dicembre_2020\obj\Debug\SquareInvaders_22_Dicembre_2020.csprojAssemblyReference.cache
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\25.Lezione 07 Gennaio 2021\SquareInvaders_7_Gennaio_2021\SquareInvaders_22_Dicembre_2020\obj\Debug\SquareInvaders_22_Dicembre_2020.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\25.Lezione 07 Gennaio 2021\SquareInvaders_7_Gennaio_2021\SquareInvaders_22_Dicembre_2020\obj\Debug\SquareInvaders_22_Dicembre_2020.csproj.CopyComplete
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\25.Lezione 07 Gennaio 2021\SquareInvaders_7_Gennaio_2021\SquareInvaders_22_Dicembre_2020\obj\Debug\SquareInvaders_22_Dicembre_2020.exe
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\25.Lezione 07 Gennaio 2021\SquareInvaders_7_Gennaio_2021\SquareInvaders_22_Dicembre_2020\obj\Debug\SquareInvaders_22_Dicembre_2020.pdb
